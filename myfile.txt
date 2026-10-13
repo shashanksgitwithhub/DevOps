@@ -1,6 +1,7 @@
-This is my first Git file
-This change was made on GitHub
-This change was made on ec2
-Hi this is Shashank TJ from Bengaluru
-I have completed my Engineering in Computer Engineering
-Doing my Professional course in Besant Technologies, kalyan nagar
+This is my first Git file.
+This change was made on GitHub.
+This change was made on ec2.
+Hi this is Shashank TJ from Bengaluru.
+I have completed my Engineering in Computer Engineering.
+Doing my Professional course in Besant Technologies, kalyan nagar.
+Currently searching for an IT job in Cloud Computing.
